@@ -1,7 +1,19 @@
 {
-  "name": "js-array",
+  "name": "c",
   "version": "1.0.0",
   "description": "## Завдання",
+  "keywords": [],
+  "homepage": "https://github.com/kn25-asydorenko-ops/js-array#readme",
+  "bugs": {
+    "url": "https://github.com/kn25-asydorenko-ops/js-array/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kn25-asydorenko-ops/js-array.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -9,9 +21,6 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
   }
